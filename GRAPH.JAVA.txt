@@ -3,7 +3,8 @@
 class Graph {
     int vertices;
     ArrayList<ArrayList<Integer>>  adj;
-    
+
+
     Graph(int v) {
         vertices = v;
         adj = (new ArrayList<>());
