@@ -1,4 +1,4 @@
-   - The Bellman-Ford algorithm is a classic graph algorithm used to find the shortest path from a single source node to all other nodes in a weighted graph. It is highly versatile because, unlike its counterpart Dijkstra’s algorithm, it can successfully handle graphs with negative edge weights.
+  - The Bellman-Ford algorithm is a classic graph algorithm used to find the shortest path from a single source node to all other nodes in a weighted graph. It is highly versatile because, unlike its counterpart Dijkstra’s algorithm, it can successfully handle graphs with negative edge weights.
 
 
 
