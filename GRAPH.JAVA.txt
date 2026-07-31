@@ -1,7 +1,6 @@
 
 import java.util.*;
 
-
 class Graph {
     int vertices;
     ArrayList<ArrayList<Integer>>  adj;
