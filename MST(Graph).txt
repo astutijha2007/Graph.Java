@@ -44,7 +44,9 @@ public class Main {
             }
         }
 
+
         System.out.println("minimum Spanning Tree Weight: " + totalWeight);
+
     }
 
     public static void main(String[] args) {
