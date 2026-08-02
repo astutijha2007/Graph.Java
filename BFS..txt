@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 public class BFSExample {
 
     static void bfs(int start, List<List<Integer>> graph) {
