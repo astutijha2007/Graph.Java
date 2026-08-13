@@ -14,7 +14,6 @@ class Pair {
 public class Main {
 
     public static void prims(int V, ArrayList<ArrayList<Pair>> adj) {
-
         boolean[] visited = new boolean[V];
 
         PriorityQueue<Pair> pq = new PriorityQueue<>(
